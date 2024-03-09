@@ -1,12 +1,10 @@
 ![](https://raw.githubusercontent.com/farmione/farmione/master/header.png)
 ### Hi there 👋
 
-I am **Misbah**, a software developer focused in backend development.
-* Open to remote positions 
-* Time can be adjusted by up to 4 hours within the range of GMT to GMT+9
+I am **Misbah**, a software developer focused on backend development.  
 
 #### Language, Database and Tools:
-* Either used in personal project or in production
+* Either used in personal projects or in production
 
 | Hands on | Down on pipeline |
 |----------|-----------------|
